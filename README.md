@@ -1,7 +1,7 @@
 ### Hi! Welcome to My Github profile! 👋
 
 ### 🌱 I'm currently learning 
-- 📚 Modern C++, C#, Rust, Haskell, Python
+- 📚 Modern C++, C#, Rust, Haskell
 - ✨ Reinforcement Learning
 - 🎨 Software Architecture, Algorithm, System Programming
 
