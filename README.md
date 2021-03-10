@@ -4,7 +4,7 @@
 #include <iostream>
 
 auto main() -> int {
-  std::cout << " Welcome to My Github profile! 👋\n";
+  std::cout << "Welcome to My Github profile! 👋\n";
   return 0;
 }
 ```
