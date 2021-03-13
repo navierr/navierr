@@ -1,11 +1,8 @@
 ### Hi!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/navierr/)](https://github.com/navierr/)
-```cpp
-#include <fmt/core.h>
-
-auto main() -> int {
-    fmt::print("Welcome to My Github profile! 👋\n");
-    return 0;
+```rust
+fn main() {
+    println!("Welcome to My Github profile! 👋\n");
 }
 ```
 -----
