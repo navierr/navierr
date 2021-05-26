@@ -1,4 +1,4 @@
-### <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" height="30"> Welcome to my Github profile!
+### <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="25" height="25"> Welcome to my Github profile!
 
 ### 📚 I'm currently learning 
 - C, *Modern C++*, ***Rust***, C#, Haskell, Unity
