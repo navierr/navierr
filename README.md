@@ -3,7 +3,7 @@
 프린이입니다.
 
 ### 📚 공부하는 것들 
-- ***🦀Rust***, *Modern C++*, C#, Haskell, Julia
+- ***Rust***, *Modern C++*, C#, Haskell, Julia
 - Unity
 - Computer Graphics
 
